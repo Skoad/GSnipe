@@ -282,11 +282,11 @@
 		},
 		"Extra": {
 			"MinimumPlayers": "20",
-			"BoothServerHopTime": "30",
-			"HopToMaxPing": "120",
+			"BoothServerHopTime": "200",
+			"HopToMaxPing": "320",
 			"HopToMinFps": "15",
 			"BoothServerHop": true,
-			"BoothServerHopTimeMax": "120",
+			"BoothServerHopTimeMax": "420",
 			"TeleportToBooth": true
 		},
 		"Sniping": {
