@@ -290,7 +290,7 @@
 			"TeleportToBooth": true
 		},
 		"Sniping": {
-			"WaitAfterTP": "0.4",
+			"WaitAfterTP": "0.32",
 			"AutoRapBuy": false,
 			"MinimumGemsWarning": "12000000000",
 			"HopAfterHuge": true,
