@@ -115,6 +115,18 @@
 					"Type": ["Regular"],
 					"Pet": "2045"
 				}, {
+					"Price": "675000000000",
+					"Type": ["Rainbow"],
+					"Pet": "2059"
+				}, {
+					"Price": "185000000000",
+					"Type": ["Golden"],
+					"Pet": "2059"
+				}, {
+					"Price": "95000000000",
+					"Type": ["Regular"],
+					"Pet": "2059"
+				} ,{
 					"Price": "620000000000",
 					"Type": ["Rainbow"],
 					"Pet": "2068"
