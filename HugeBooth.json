@@ -1,575 +1,957 @@
 {
-	"Booths": {
-		"Selling": {
-			"DisablePetDump": false,
-			"SellingList": [{
-					"Price": "270000000000",
-					"Type": ["Rainbow"],
-					"Pet": "2004"
-				}, {
-					"Price": "78000000000",
-					"Type": ["Golden"],
-					"Pet": "2004"
-				}, {
-					"Price": "69000000000",
-					"Type": ["Regular"],
-					"Pet": "2004"
-				}, {
-					"Price": "240000000000",
-					"Type": ["Rainbow"],
-					"Pet": "2187"
-				}, {
-					"Price": "200000000000",
-					"Type": ["Golden"],
-					"Pet": "2187"
-				}, {
-					"Price": "67000000000",
-					"Type": ["Regular"],
-					"Pet": "2187"
-				}, {
-					"Price": "605000000000",
-					"Type": ["Rainbow"],
-					"Pet": "2101"
-				}, {
-					"Price": "150000000000",
-					"Type": ["Golden"],
-					"Pet": "2101"
-				}, {
-					"Price": "98000000000",
-					"Type": ["Regular"],
-					"Pet": "2101"
-				}, {
-					"Price": "470000000000",
-					"Type": ["Rainbow"],
-					"Pet": "2102"
-				}, {
-					"Price": "150000000000",
-					"Type": ["Golden"],
-					"Pet": "2102"
-				}, {
-					"Price": "100000000000",
-					"Type": ["Regular"],
-					"Pet": "2102"
-				}, {
-					"Price": "470000000000",
-					"Type": ["Rainbow"],
-					"Pet": "2103"
-				}, {
-					"Price": "150000000000",
-					"Type": ["Golden"],
-					"Pet": "2103"
-				}, {
-					"Price": "104000000000",
-					"Type": ["Regular"],
-					"Pet": "2103"
-				}, {
-					"Price": "96000000000",
-					"Type": ["Regular"],
-					"Pet": "2093"
-				}, {
-					"Price": "520000000000",
-					"Type": ["Rainbow"],
-					"Pet": "2105"
-				}, {
-					"Price": "165000000000",
-					"Type": ["Golden"],
-					"Pet": "2105"
-				}, {
-					"Price": "155000000000",
-					"Type": ["Regular"],
-					"Pet": "2105"
-				}, {
-					"Price": "470000000000",
-					"Type": ["Rainbow"],
-					"Pet": "2005"
-				}, {
-					"Price": "140000000000",
-					"Type": ["Golden"],
-					"Pet": "2005"
-				}, {
-					"Price": "100000000000",
-					"Type": ["Regular"],
-					"Pet": "2005"
-				}, {
-					"Price": "400000000000",
-					"Type": ["Rainbow"],
-					"Pet": "2018"
-				}, {
-					"Price": "135000000000",
-					"Type": ["Golden"],
-					"Pet": "2018"
-				}, {
-					"Price": "95000000000",
-					"Type": ["Regular"],
-					"Pet": "2018"
-				}, {
-					"Price": "450000000000",
-					"Type": ["Rainbow"],
-					"Pet": "2045"
-				}, {
-					"Price": "145000000000",
-					"Type": ["Golden"],
-					"Pet": "2045"
-				}, {
-					"Price": "95000000000",
-					"Type": ["Regular"],
-					"Pet": "2045"
-				}, {
-					"Price": "650000000000",
-					"Type": ["Rainbow"],
-					"Pet": "2059"
-				}, {
-					"Price": "285000000000",
-					"Type": ["Golden"],
-					"Pet": "2059"
-				}, {
-					"Price": "200000000000",
-					"Type": ["Regular"],
-					"Pet": "2059"
-				} ,{
-					"Price": "620000000000",
-					"Type": ["Rainbow"],
-					"Pet": "2068"
-				}, {
-					"Price": "175000000000",
-					"Type": ["Golden"],
-					"Pet": "2068"
-				}, {
-					"Price": "90000000000",
-					"Type": ["Regular"],
-					"Pet": "2068"
-				}, {
-					"Price": "430000000000",
-					"Type": ["Rainbow"],
-					"Pet": "2071"
-				}, {
-					"Price": "110000000000",
-					"Type": ["Golden"],
-					"Pet": "2071"
-				}, {
-					"Price": "95000000000",
-					"Type": ["Regular"],
-					"Pet": "2071"
-				}, {
-					"Price": "440000000000",
-					"Type": ["Rainbow"],
-					"Pet": "2083"
-				}, {
-					"Price": "105000000000",
-					"Type": ["Golden"],
-					"Pet": "2083"
-				}, {
-					"Price": "92000000000",
-					"Type": ["Regular"],
-					"Pet": "2083"
-				}, {
-					"Price": "470000000000",
-					"Type": ["Rainbow"],
-					"Pet": "2096"
-				}, {
-					"Price": "115000000000",
-					"Type": ["Golden"],
-					"Pet": "2096"
-				}, {
-					"Price": "72000000000",
-					"Type": ["Regular"],
-					"Pet": "2096"
-				}, {
-					"Price": "435000000000",
-					"Type": ["Rainbow"],
-					"Pet": "2097"
-				}, {
-					"Price": "116000000000",
-					"Type": ["Golden"],
-					"Pet": "2097"
-				}, {
-					"Price": "72000000000",
-					"Type": ["Regular"],
-					"Pet": "2097"
-				}
-				, {
-					"Price": "420000000000",
-					"Type": ["Rainbow"],
-					"Pet": "2099"
-				}, {
-					"Price": "120000000000",
-					"Type": ["Golden"],
-					"Pet": "2099"
-				}, {
-					"Price": "95000000000",
-					"Type": ["Regular"],
-					"Pet": "2099"
-				}, {
-					"Price": "455000000000",
-					"Type": ["Rainbow"],
-					"Pet": "2100"
-				}, {
-					"Price": "120000000000",
-					"Type": ["Golden"],
-					"Pet": "2100"
-				}, {
-					"Price": "100000000000",
-					"Type": ["Regular"],
-					"Pet": "2100"
-				},
-				{
-					"Price": "375000000000",
-					"Type": ["Rainbow"],
-					"Pet": "2017"
-				}, {
-					"Price": "130000000000",
-					"Type": ["Golden"],
-					"Pet": "2017"
-				}, {
-					"Price": "95000000000",
-					"Type": ["Regular"],
-					"Pet": "2017"
-				},
-				{
-					"Price": "1000000000000",
-					"Type": ["Rainbow"],
-					"Pet": "266"
-				}, {
-					"Price": "280000000000",
-					"Type": ["Golden"],
-					"Pet": "266"
-				}, {
-					"Price": "160000000000",
-					"Type": ["Regular"],
-					"Pet": "266"
-				},
-				{
-					"Price": "855000000000",
-					"Type": ["Rainbow"],
-					"Pet": "316"
-				}, {
-					"Price": "155000000000",
-					"Type": ["Golden"],
-					"Pet": "316"
-				}, {
-					"Price": "99000000000",
-					"Type": ["Regular"],
-					"Pet": "316"
-				},
-				{
-					"Price": "755000000000",
-					"Type": ["Rainbow"],
-					"Pet": "331"
-				}, {
-					"Price": "135000000000",
-					"Type": ["Golden"],
-					"Pet": "331"
-				}, {
-					"Price": "112000000000",
-					"Type": ["Regular"],
-					"Pet": "331"
-				},
-				{
-					"Price": "475000000000",
-					"Type": ["Rainbow"],
-					"Pet": "372"
-				}, {
-					"Price": "185000000000",
-					"Type": ["Golden"],
-					"Pet": "372"
-				}, {
-					"Price": "112000000000",
-					"Type": ["Regular"],
-					"Pet": "372"
-				},				{
-					"Price": "700000000000",
-					"Type": ["Rainbow"],
-					"Pet": "2182"
-				}, {
-					"Price": "5000000000000",
-					"Type": ["Golden"],
-					"Pet": "2182"
-				}, {
-					"Price": "115000000000",
-					"Type": ["Regular"],
-					"Pet": "2182"
-				},				{
-					"Price": "3400000000000",
-					"Type": ["Rainbow"],
-					"Pet": "2176"
-				}, {
-					"Price": "520000000000",
-					"Type": ["Golden"],
-					"Pet": "2176"
-				}, {
-					"Price": "300000000000",
-					"Type": ["Regular"],
-					"Pet": "2176"
-				},				{
-					"Price": "2250000000000",
-					"Type": ["Rainbow"],
-					"Pet": "2162"
-				}, {
-					"Price": "5000000000000",
-					"Type": ["Golden"],
-					"Pet": "2162"
-				}, {
-					"Price": "205000000000",
-					"Type": ["Regular"],
-					"Pet": "2162"
-				},				{
-					"Price": "500000000000",
-					"Type": ["Rainbow"],
-					"Pet": "2154"
-				}, {
-					"Price": "120000000000",
-					"Type": ["Golden"],
-					"Pet": "2154"
-				}, {
-					"Price": "85000000000",
-					"Type": ["Regular"],
-					"Pet": "2154"
-				},				{
-					"Price": "1500000000000",
-					"Type": ["Rainbow"],
-					"Pet": "2138"
-				}, {
-					"Price": "5000000000000",
-					"Type": ["Golden"],
-					"Pet": "2138"
-				}, {
-					"Price": "180000000000",
-					"Type": ["Regular"],
-					"Pet": "2138"
-				},				{
-					"Price": "2000000000000",
-					"Type": ["Rainbow"],
-					"Pet": "2131"
-				}, {
-					"Price": "5000000000000",
-					"Type": ["Golden"],
-					"Pet": "2131"
-				}, {
-					"Price": "120000000000",
-					"Type": ["Regular"],
-					"Pet": "2131"
-				},				{
-					"Price": "950000000000",
-					"Type": ["Rainbow"],
-					"Pet": "2106"
-				}, {
-					"Price": "5000000000000",
-					"Type": ["Golden"],
-					"Pet": "2106"
-				}, {
-					"Price": "150000000000",
-					"Type": ["Regular"],
-					"Pet": "2106"
-				},				{
-					"Price": "600000000000",
-					"Type": ["Rainbow"],
-					"Pet": "2098"
-				}, {
-					"Price": "170000000000",
-					"Type": ["Golden"],
-					"Pet": "2098"
-				}, {
-					"Price": "100000000000",
-					"Type": ["Regular"],
-					"Pet": "2098"
-				},				{
-					"Price": "1050000000000",
-					"Type": ["Rainbow"],
-					"Pet": "2091"
-				}, {
-					"Price": "5000000000000",
-					"Type": ["Golden"],
-					"Pet": "2091"
-				}, {
-					"Price": "140000000000",
-					"Type": ["Regular"],
-					"Pet": "2091"
-				},				{
-					"Price": "800000000000",
-					"Type": ["Rainbow"],
-					"Pet": "2066"
-				}, {
-					"Price": "155000000000",
-					"Type": ["Golden"],
-					"Pet": "2066"
-				}, {
-					"Price": "85000000000",
-					"Type": ["Regular"],
-					"Pet": "2066"
-				},				{
-					"Price": "800000000000",
-					"Type": ["Rainbow"],
-					"Pet": "2047"
-				}, {
-					"Price": "130000000000",
-					"Type": ["Golden"],
-					"Pet": "2047"
-				}, {
-					"Price": "100000000000",
-					"Type": ["Regular"],
-					"Pet": "2047"
-				},				{
-					"Price": "2750000000000",
-					"Type": ["Rainbow"],
-					"Pet": "2046"
-				}, {
-					"Price": "10000000000000",
-					"Type": ["Golden"],
-					"Pet": "2046"
-				}, {
-					"Price": "170000000000",
-					"Type": ["Regular"],
-					"Pet": "2046"
-				},				{
-					"Price": "3100000000000",
-					"Type": ["Rainbow"],
-					"Pet": "2010"
-				}, {
-					"Price": "450000000000",
-					"Type": ["Golden"],
-					"Pet": "2010"
-				}, {
-					"Price": "400000000000",
-					"Type": ["Regular"],
-					"Pet": "2010"
-				},				{
-					"Price": "3500000000000",
-					"Type": ["Rainbow"],
-					"Pet": "2009"
-				}, {
-					"Price": "330000000000",
-					"Type": ["Golden"],
-					"Pet": "2009"
-				}, {
-					"Price": "285000000000",
-					"Type": ["Regular"],
-					"Pet": "2009"
-				},				{
-					"Price": "3000000000000",
-					"Type": ["Rainbow"],
-					"Pet": "309"
-				}, {
-					"Price": "700000000000",
-					"Type": ["Golden"],
-					"Pet": "309"
-				}, {
-					"Price": "350000000000",
-					"Type": ["Regular"],
-					"Pet": "309"
-				},				{
-					"Price": "570000000000",
-					"Type": ["Rainbow"],
-					"Pet": "225"
-				}, {
-					"Price": "160000000000",
-					"Type": ["Golden"],
-					"Pet": "225"
-				}, {
-					"Price": "125000000000",
-					"Type": ["Regular"],
-					"Pet": "225"
-				},
-				{
-					"Price": "475000000000",
-					"Type": ["Rainbow"],
-					"Pet": "374"
-				}, {
-					"Price": "165000000000",
-					"Type": ["Golden"],
-					"Pet": "374"
-				}, {
-					"Price": "108000000000",
-					"Type": ["Regular"],
-					"Pet": "374"
-				}
-			],
-			"autoMultipliers": {
-				"enableHC": true,
-				"HCmulti": "3",
-				"enableSH": true,
-				"SHmulti": "2",
-				"enableG": true,
-				"Gmulti": "2.5",
-				"enableRB": true,
-				"RBmulti": "6.5",
-				"enableDM": true,
-				"DMmulti": "15"
-			},
-			"StartSellingPet": true
-		},
-		"Extra": {
-			"MinimumPlayers": "20",
-			"BoothServerHopTime": "20",
-			"HopToMaxPing": "320",
-			"HopToMinFps": "15",
-			"BoothServerHop": true,
-			"BoothServerHopTimeMax": "30",
-			"TeleportToBooth": true
-		},
-		"Sniping": {
-			"WaitAfterTP": "0.4",
-			"AutoRapBuy": false,
-			"MinimumGemsWarning": "12000000000",
-			"HopAfterHuge": true,
-			"StartSnipingPet": true,
-			"SnipingList": [{
-				"SnipeRarity": true,
-				"GemsUnder": "100000000000",
-				"Rarity": ["Titanic"],
-				"SnipeUnder": true,
-				"Pet": "None",
-				"Type": ["Any"]
-			}, {
-				"SnipeRarity": true,
-				"GemsUnder": "28000000000",
-				"Rarity": ["Huge"],
-				"SnipeUnder": true,
-				"Pet": "None",
-				"Type": ["Regular"]
-			}, {
-				"SnipeRarity": true,
-				"GemsUnder": "32000000000",
-				"Rarity": ["Huge"],
-				"SnipeUnder": true,
-				"Pet": "None",
-				"Type": ["Golden"]
-			}, {
-				"SnipeRarity": true,
-				"GemsUnder": "55000000000",
-				"Rarity": ["Huge"],
-				"SnipeUnder": true,
-				"Pet": "None",
-				"Type": ["Rainbow"]
-			}, {
-				"SnipeRarity": true,
-				"GemsUnder": "25000000000",
-				"Rarity": ["Huge"],
-				"SnipeUnder": true,
-				"Pet": "None",
-				"Type": ["Shiny"]
-			}, {
-				"SnipeRarity": false,
-				"GemsUnder": "100000000000",
-				"Rarity": "None",
-				"Pet": "211",
-				"SnipeUnder": true,
-				"Type": ["Any"]
-			}, {
-				"SnipeRarity": false,
-				"GemsUnder": "20000000000",
-				"Rarity": "None",
-				"Pet": "6969",
-				"SnipeUnder": true,
-				"Type": ["Any"]
-			}, {
-				"SnipeRarity": false,
-				"GemsUnder": "20000000000",
-				"Rarity": "None",
-				"Pet": "1042",
-				"SnipeUnder": true,
-				"Type": ["Any"]
-			}],
-			"BlackList": []
-		}
-	}
+    "Booths": {
+        "Selling": {
+            "DisablePetDump": false,
+            "SellingList": [
+                {
+                    "Price": "270000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "2004"
+                },
+                {
+                    "Price": "70000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "2004"
+                },
+                {
+                    "Price": "68000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2004"
+                },
+                {
+                    "Price": "240000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "2187"
+                },
+                {
+                    "Price": "200000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "2187"
+                },
+                {
+                    "Price": "64000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2187"
+                },
+                {
+                    "Price": "605000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "2101"
+                },
+                {
+                    "Price": "150000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "2101"
+                },
+                {
+                    "Price": "98000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2101"
+                },
+                {
+                    "Price": "470000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "2102"
+                },
+                {
+                    "Price": "150000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "2102"
+                },
+                {
+                    "Price": "100000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2102"
+                },
+                {
+                    "Price": "470000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "2103"
+                },
+                {
+                    "Price": "150000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "2103"
+                },
+                {
+                    "Price": "104000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2103"
+                },
+                {
+                    "Price": "96000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2093"
+                },
+                {
+                    "Price": "520000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "2105"
+                },
+                {
+                    "Price": "165000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "2105"
+                },
+                {
+                    "Price": "155000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2105"
+                },
+                {
+                    "Price": "470000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "2005"
+                },
+                {
+                    "Price": "140000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "2005"
+                },
+                {
+                    "Price": "100000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2005"
+                },
+                {
+                    "Price": "400000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "2018"
+                },
+                {
+                    "Price": "135000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "2018"
+                },
+                {
+                    "Price": "95000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2018"
+                },
+                {
+                    "Price": "450000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "2045"
+                },
+                {
+                    "Price": "145000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "2045"
+                },
+                {
+                    "Price": "95000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2045"
+                },
+                {
+                    "Price": "650000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "2059"
+                },
+                {
+                    "Price": "285000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "2059"
+                },
+                {
+                    "Price": "200000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2059"
+                },
+                {
+                    "Price": "620000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "2068"
+                },
+                {
+                    "Price": "175000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "2068"
+                },
+                {
+                    "Price": "90000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2068"
+                },
+                {
+                    "Price": "430000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "2071"
+                },
+                {
+                    "Price": "110000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "2071"
+                },
+                {
+                    "Price": "95000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2071"
+                },
+                {
+                    "Price": "440000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "2083"
+                },
+                {
+                    "Price": "105000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "2083"
+                },
+                {
+                    "Price": "92000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2083"
+                },
+                {
+                    "Price": "470000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "2096"
+                },
+                {
+                    "Price": "115000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "2096"
+                },
+                {
+                    "Price": "72000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2096"
+                },
+                {
+                    "Price": "435000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "2097"
+                },
+                {
+                    "Price": "116000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "2097"
+                },
+                {
+                    "Price": "72000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2097"
+                },
+                {
+                    "Price": "420000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "2099"
+                },
+                {
+                    "Price": "120000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "2099"
+                },
+                {
+                    "Price": "95000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2099"
+                },
+                {
+                    "Price": "455000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "2100"
+                },
+                {
+                    "Price": "120000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "2100"
+                },
+                {
+                    "Price": "100000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2100"
+                },
+                {
+                    "Price": "375000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "2017"
+                },
+                {
+                    "Price": "130000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "2017"
+                },
+                {
+                    "Price": "95000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2017"
+                },
+                {
+                    "Price": "1000000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "266"
+                },
+                {
+                    "Price": "280000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "266"
+                },
+                {
+                    "Price": "160000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "266"
+                },
+                {
+                    "Price": "855000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "316"
+                },
+                {
+                    "Price": "155000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "316"
+                },
+                {
+                    "Price": "99000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "316"
+                },
+                {
+                    "Price": "755000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "331"
+                },
+                {
+                    "Price": "135000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "331"
+                },
+                {
+                    "Price": "112000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "331"
+                },
+                {
+                    "Price": "475000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "372"
+                },
+                {
+                    "Price": "185000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "372"
+                },
+                {
+                    "Price": "112000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "372"
+                },
+                {
+                    "Price": "700000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "2182"
+                },
+                {
+                    "Price": "5000000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "2182"
+                },
+                {
+                    "Price": "115000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2182"
+                },
+                {
+                    "Price": "3400000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "2176"
+                },
+                {
+                    "Price": "520000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "2176"
+                },
+                {
+                    "Price": "300000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2176"
+                },
+                {
+                    "Price": "2250000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "2162"
+                },
+                {
+                    "Price": "5000000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "2162"
+                },
+                {
+                    "Price": "205000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2162"
+                },
+                {
+                    "Price": "500000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "2154"
+                },
+                {
+                    "Price": "120000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "2154"
+                },
+                {
+                    "Price": "85000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2154"
+                },
+                {
+                    "Price": "1500000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "2138"
+                },
+                {
+                    "Price": "5000000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "2138"
+                },
+                {
+                    "Price": "180000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2138"
+                },
+                {
+                    "Price": "2000000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "2131"
+                },
+                {
+                    "Price": "5000000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "2131"
+                },
+                {
+                    "Price": "120000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2131"
+                },
+                {
+                    "Price": "950000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "2106"
+                },
+                {
+                    "Price": "5000000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "2106"
+                },
+                {
+                    "Price": "150000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2106"
+                },
+                {
+                    "Price": "600000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "2098"
+                },
+                {
+                    "Price": "170000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "2098"
+                },
+                {
+                    "Price": "100000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2098"
+                },
+                {
+                    "Price": "1050000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "2091"
+                },
+                {
+                    "Price": "5000000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "2091"
+                },
+                {
+                    "Price": "140000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2091"
+                },
+                {
+                    "Price": "800000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "2066"
+                },
+                {
+                    "Price": "155000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "2066"
+                },
+                {
+                    "Price": "85000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2066"
+                },
+                {
+                    "Price": "800000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "2047"
+                },
+                {
+                    "Price": "130000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "2047"
+                },
+                {
+                    "Price": "100000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2047"
+                },
+                {
+                    "Price": "2750000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "2046"
+                },
+                {
+                    "Price": "10000000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "2046"
+                },
+                {
+                    "Price": "170000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2046"
+                },
+                {
+                    "Price": "3100000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "2010"
+                },
+                {
+                    "Price": "450000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "2010"
+                },
+                {
+                    "Price": "400000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2010"
+                },
+                {
+                    "Price": "3500000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "2009"
+                },
+                {
+                    "Price": "330000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "2009"
+                },
+                {
+                    "Price": "285000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "2009"
+                },
+                {
+                    "Price": "3000000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "309"
+                },
+                {
+                    "Price": "700000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "309"
+                },
+                {
+                    "Price": "350000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "309"
+                },
+                {
+                    "Price": "570000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "225"
+                },
+                {
+                    "Price": "160000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "225"
+                },
+                {
+                    "Price": "125000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "225"
+                },
+                {
+                    "Price": "475000000000",
+                    "Type": [
+                        "Rainbow"
+                    ],
+                    "Pet": "374"
+                },
+                {
+                    "Price": "165000000000",
+                    "Type": [
+                        "Golden"
+                    ],
+                    "Pet": "374"
+                },
+                {
+                    "Price": "108000000000",
+                    "Type": [
+                        "Regular"
+                    ],
+                    "Pet": "374"
+                }
+            ],
+            "autoMultipliers": {
+                "enableHC": true,
+                "HCmulti": "3",
+                "enableSH": true,
+                "SHmulti": "2",
+                "enableG": true,
+                "Gmulti": "2.5",
+                "enableRB": true,
+                "RBmulti": "6.5",
+                "enableDM": true,
+                "DMmulti": "15"
+            },
+            "StartSellingPet": true
+        },
+        "Extra": {
+            "MinimumPlayers": "20",
+            "BoothServerHopTime": "20",
+            "HopToMaxPing": "320",
+            "HopToMinFps": "15",
+            "BoothServerHop": true,
+            "BoothServerHopTimeMax": "30",
+            "TeleportToBooth": true
+        },
+        "Sniping": {
+            "WaitAfterTP": "0.4",
+            "AutoRapBuy": false,
+            "MinimumGemsWarning": "12000000000",
+            "HopAfterHuge": true,
+            "StartSnipingPet": true,
+            "SnipingList": [
+                {
+                    "SnipeRarity": true,
+                    "GemsUnder": "100000000000",
+                    "Rarity": [
+                        "Titanic"
+                    ],
+                    "SnipeUnder": true,
+                    "Pet": "None",
+                    "Type": [
+                        "Any"
+                    ]
+                },
+                {
+                    "SnipeRarity": true,
+                    "GemsUnder": "28000000000",
+                    "Rarity": [
+                        "Huge"
+                    ],
+                    "SnipeUnder": true,
+                    "Pet": "None",
+                    "Type": [
+                        "Regular"
+                    ]
+                },
+                {
+                    "SnipeRarity": true,
+                    "GemsUnder": "32000000000",
+                    "Rarity": [
+                        "Huge"
+                    ],
+                    "SnipeUnder": true,
+                    "Pet": "None",
+                    "Type": [
+                        "Golden"
+                    ]
+                },
+                {
+                    "SnipeRarity": true,
+                    "GemsUnder": "55000000000",
+                    "Rarity": [
+                        "Huge"
+                    ],
+                    "SnipeUnder": true,
+                    "Pet": "None",
+                    "Type": [
+                        "Rainbow"
+                    ]
+                },
+                {
+                    "SnipeRarity": true,
+                    "GemsUnder": "25000000000",
+                    "Rarity": [
+                        "Huge"
+                    ],
+                    "SnipeUnder": true,
+                    "Pet": "None",
+                    "Type": [
+                        "Shiny"
+                    ]
+                },
+                {
+                    "SnipeRarity": false,
+                    "GemsUnder": "100000000000",
+                    "Rarity": "None",
+                    "Pet": "211",
+                    "SnipeUnder": true,
+                    "Type": [
+                        "Any"
+                    ]
+                },
+                {
+                    "SnipeRarity": false,
+                    "GemsUnder": "20000000000",
+                    "Rarity": "None",
+                    "Pet": "6969",
+                    "SnipeUnder": true,
+                    "Type": [
+                        "Any"
+                    ]
+                },
+                {
+                    "SnipeRarity": false,
+                    "GemsUnder": "20000000000",
+                    "Rarity": "None",
+                    "Pet": "1042",
+                    "SnipeUnder": true,
+                    "Type": [
+                        "Any"
+                    ]
+                }
+            ],
+            "BlackList": []
+        }
+    }
 }
